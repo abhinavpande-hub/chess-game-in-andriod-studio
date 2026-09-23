@@ -1,21 +1,67 @@
-# Chess Game
+Chess Game – Android App
 
-An Android Chess Game built using Kotlin in Android Studio.
+Android Studio • Kotlin • Custom ChessBoardView
 
-## Features
-- 8×8 Chess Board
-- Unicode Chess Pieces
-- Restart Button
-- Turn Indicator
+Kotlin
+Android Studio
+Custom View
+API 26+
 
-## Installation
-1. Clone the repository.
-2. Open it in Android Studio.
-3. Click Run.
+8×8 Chess Board
 
-## Technologies
-- Kotlin
-- Android Studio
+White and Black Chess Pieces
 
-## Author
+Player Turn Indicator
+
+Restart Game Button
+
+Built with ChessBoardView
+
+Project Structure
+
+MainActivity.kt
+
+Main activity
+
+ChessBoardView.kt
+
+Draws board & pieces
+
+activity_main.xml
+
+UI layout
+
+AndroidManifest.xml
+
+App configuration
+
+How to Run
+Clone the repository.
+Open it in Android Studio.
+Let Gradle sync.
+Run on an emulator or Android device.
+Future Improvements
+Move validation
+Check and Checkmate
+Castling
+Pawn Promotion
+En Passant
+Undo Move
+Sound Effects
+AI Opponent
+Multiplayer Mode
+Requirements
+
+Android Studio
+
+Android SDK
+
+Kotlin
+
+API 26+
+
+Author
+
 Abhinav Pande
+
+Computer Engineering • Second Year
